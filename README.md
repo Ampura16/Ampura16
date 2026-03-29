@@ -37,7 +37,7 @@ Ampura16 Github HomePage
 
 ## 📌 Most used languages
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ampura16&theme=tokyonight" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampura16&theme=radical&layout=compact" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ampura16&theme=tokyonight" />
 <div align="center">
 
 ![visitors](https://komarev.com/ghpvc/?username=Ampura16&color=7B61FF&style=for-the-badge&label=VISITORS)
