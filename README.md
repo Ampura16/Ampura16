@@ -24,8 +24,6 @@ Ampura16 Github HomePage
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![FL Studio](https://img.shields.io/badge/FL_Studio-FF7900?style=for-the-badge&logo=image-line&logoColor=white)](https://www.image-line.com/)
 
----
-
 ## 📌 My Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ampura16&repo=Ampura16&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/Ampura16)
@@ -36,6 +34,10 @@ Ampura16 Github HomePage
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ampura16&repo=仓库名&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/仓库名)
 -->
+
+## 📌 Most used languages
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeTerminator&theme=radical&layout=compact" />
 
 <div align="center">
 
