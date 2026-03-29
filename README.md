@@ -26,10 +26,11 @@ Ampura16 Github HomePage
 
 ## 📌 My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ampura16&repo=Ampura16&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/Ampura16)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ampura16&repo=MobArenaReloaded&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/MobArenaReloaded)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ampura16&repo=TowerDefense&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/TowerDefense)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ampura16&repo=YBedWars&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/YBedWars)
+[![Ampura16 Profile](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Ampura16&repo=Ampura16&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/Ampura16)
+[![MobArenaReloaded](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Ampura16&repo=MobArenaReloaded&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/MobArenaReloaded)
+[![TowerDefense](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Ampura16&repo=TowerDefense&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/TowerDefense)
+[![YBedWars](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Ampura16&repo=YBedWars&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/YBedWars)
+
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ampura16&repo=仓库名&theme=tokyonight&hide_border=true)](https://github.com/Ampura16/仓库名)
