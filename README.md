@@ -37,7 +37,7 @@ Ampura16 Github HomePage
 
 ## 📌 Most used languages
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeTerminator&theme=radical&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampura16&theme=radical&layout=compact" />
 
 <div align="center">
 
